@@ -1,0 +1,23 @@
+Hello!
+I've made a rock, paper, scissors game simulator.
+I've made it so that you don't need to open it in an IDLE shell, you can ust double click!
+but,
+in order for it to work, it needs you to install the playsound module
+if you already have it, then uninstall it, because it needs an older version.
+===================================================================
+HOW TO UNINSTALL (if you already had it!)
+Open your command prompt, powershell, or terminal (for mac users)
+type:
+pip uninstall playsound
+
+HOW TO INSTALL PLAYSOUND:
+Open your command prompt, powershell, or terminal (for mac users)
+type:
+pip install playsound==1.2.2
+===================================================================
+AFTER YOU INSTALL THE OLDER VERSION,
+you can simply enjoy the game, or make any modifications if you need to!
+I hope you enjoy using this game!
+Bye!
+
+P.S. double click the Rock, Paper, Scissors game.py to launch it!
