@@ -1,4 +1,4 @@
-#game engine from TechWithTim, completely modified by PyAreSquare
+#game idea from TechWithTim, completely modified by PyAreSquare
 from playsound import playsound
 import random
 import time
