@@ -42,7 +42,6 @@ def gamestart(): #half of the code in gamestart() is from TechWithTim, check his
             print("you lost!")
             losses = losses+1
             gamesplayed = gamesplayed+1#modification
-            playsound("Bonk.wav")
     print('=======__GAME OVER__=======')#everything below or anything with '#modification' is done by me :)
     print("you won", wins, "times.")
     print("you lost", losses, "times.")
